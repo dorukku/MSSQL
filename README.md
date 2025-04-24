@@ -25,6 +25,21 @@ Bu proje, Microsoft SQL Server kullanarak AdventureWorks veritabanının düzenl
 - SQL Server Management Studio
 - PowerShell (Windows ile birlikte gelir)
 
+# Veritabanı Yedekleme ve Felaketten Kurtarma Planı
+
+Bu proje, SQL Server üzerinde çalışan bir veritabanının yedeklenmesi, otomatikleştirilmesi ve felaket senaryolarına karşı kurtarılmasını konu alır. Projede AdventureWorks2019 veritabanı örnek olarak kullanılmıştır.
+
+---
+
+## 🎯 Amaçlar
+
+- Yedekleme stratejileri oluşturmak (FULL, DIFFERENTIAL, LOG)
+- SQL Server Agent ile otomatik yedekleme job'ları oluşturmak
+- Veritabanı silinme senaryosu üzerinden geri yükleme pratiği yapmak
+- Yedeklerin doğruluğunu test ederek felaket kurtarma planı geliştirmek
+
+---
+
 ## ✍️ Geliştiren
 
 Ulaş / CS Student @Ankara University
