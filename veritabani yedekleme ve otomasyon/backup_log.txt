@@ -1,0 +1,2 @@
+2025-04-24 18:11:49 - AdventureWorks veritabanı yedeklendi.
+2025-04-24 18:20:36 - AdventureWorks veritabanı yedeklendi.
