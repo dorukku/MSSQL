@@ -1,0 +1,3 @@
+RESTORE DATABASE AdventureWorks2019
+FROM DISK = 'C:\Backup\AdventureWorks_DIFF.bak'
+WITH NORECOVERY;
